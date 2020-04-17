@@ -1,4 +1,4 @@
-<img src="./static/logo.jpg" width="25%" align="center">
+<img src="./static/logo.jpg" width="25%" align="center" style="margin-left:auto; margin-right:auto display:block">
 
 <h1 align="center">Telegram Bot White Libel Live</h1>
 
